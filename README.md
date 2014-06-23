@@ -6,7 +6,6 @@ GoogleImageSearch
       - User is able to see the username, name, body and timestamp for each tweet
       - User is displayed the relative timestamp for a tweet "8 mins", "7 hours"
       - User can view more tweets as they scroll with infinite pagination
-      - File Type (jpg, bmp, gif...)
    * [x]  User can compose a new tweet
       - User can click a “Compose” icon in the Action Bar on the top right
       - User can then enter a new tweet and post this to twitter

@@ -1,4 +1,4 @@
-GoogleImageSearch
+Simple Twitter Client
 =================
 #### Completed User Stories
    * [x]  User can sign in to Twitter using OAuth login. 

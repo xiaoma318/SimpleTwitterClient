@@ -11,10 +11,11 @@
 
     <item
             android:id="@+id/refresh"
-            android:icon="@drawable/refresh"
+            android:icon="@drawable/ic_profile"
             android:showAsAction="ifRoom|withText"
-            android:title="refresh"
-            android:onClick="refresh">
+            android:title="profile"
+            android:onClick="onProfile"
+           >
             </item>
 
 </menu>

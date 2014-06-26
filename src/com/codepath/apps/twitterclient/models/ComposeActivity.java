@@ -21,7 +21,7 @@ import org.json.JSONObject;
  * Created by chengma on 6/19/14.
  */
 public class ComposeActivity extends Activity {
-    static final int MAX_LENGTH = 128;
+    static final int MAX_LENGTH = 140;
 
     EditText etInput;
     TextView tvCount;

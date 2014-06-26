@@ -7,6 +7,6 @@
     <string name="title_activity_photos">Flickr Photos</string>
     <string name="login_label">Connet to Twitter</string>
     <string name="foo">Name</string>
-
+    <string name="title_activity_rrofile">RrofileActivity</string>
 
 </resources>

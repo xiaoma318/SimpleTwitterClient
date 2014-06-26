@@ -28,7 +28,7 @@
             android:gravity="top"
             android:textSize="16sp"
             android:padding="5sp"
-            android:maxLength="128"/>
+            android:maxLength="140"/>
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
